@@ -1,4 +1,4 @@
 # sample
-sample repository <br>
-author - sainagesh
 
+sample repository <br>
+author - sainagesh(CSE)
